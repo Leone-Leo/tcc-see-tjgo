@@ -1,4 +1,3 @@
-
 TCC — Modelagem Analítica e Aprendizado de Máquina no SEE/TJGO
 
 Prova de Conceito para triagem de ocorrências potencialmente atípicas no Sistema Extrajudicial Eletrônico do Tribunal de Justiça do Estado de Goiás — SEE/TJGO.
