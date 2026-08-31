@@ -1,0 +1,44 @@
+# Ambiente virtual e Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Credenciais
+.env
+.env.*
+!.env.example
+
+# Dados institucionais
+03_dados/*
+!03_dados/README.md
+
+# Bases sensíveis fora da pasta de dados
+dados_brutos_original.csv
+dados_brutos.csv
+registros_removidos.csv
+dados_com_clusters.csv
+tabela_alertas_final.csv
+*.parquet
+
+# Arquivos temporários
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/# Documentos que precisam de autorização
+00_documentos/
+
+# Tabelas derivadas com detalhamento institucional
+04_resultados/01_tabelas_principais/
+04_resultados/02_tabelas_complementares/
+
+# Gráfico com casos priorizados
+04_resultados/03_graficos/grafico_09_top20_alertas.png
+
+# Arquivos exploratórios, validações e casos internos
+99_arquivo_exploratorio/
