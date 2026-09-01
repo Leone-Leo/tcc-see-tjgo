@@ -313,6 +313,12 @@ Os materiais acadêmicos e técnicos estão disponíveis em [`00_documentos/`](0
 * apresentação de defesa;
 * materiais complementares.
 
+## Monografia
+
+O trabalho completo apresenta a metodologia, os resultados e as limitações da Prova de Conceito.
+
+[Leia a monografia completa em PDF](Monografia_PRTI_TJGO-9.pdf)
+
 ## Autor
 
 Geyson de Araújo Sousa
